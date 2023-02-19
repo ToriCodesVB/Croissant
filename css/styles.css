@@ -1,14 +1,23 @@
 body {
+    background: #f8e8a6;
     display: block;
     margin: 8px;
 }
-h1, p {
+
+h1,
+p {
     text-align: center;
 }
+
+footer {
+    text-align: center;
+}
+
 footer a {
     margin: 0 10px;
-    
+
 }
+
 .croissant-photo {
     max-width: 100%;
     border-radius: 10px;
